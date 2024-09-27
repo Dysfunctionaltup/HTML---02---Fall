@@ -1,0 +1,301 @@
+<!doctype html>
+
+<html lang="eng">
+    <head> <!--This is all of our set up for the HTML file with the meta data-->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, intital-scale=1">
+        <meta name="description" content="In week 2 we are learning semantic elements">
+        <meta name="robots" content="noindex, nofollow">
+        <title>Assignment 1: Your favourite song</title>
+        </head>
+        <body>
+            <header>
+                <div>
+                    <a terget=""_self" href="Assignment 1">
+                    <img src="nah-id-win.jpg" alt="header logo"> <!-- The header logo for my lyrics website -->
+                    </a>
+                </div>
+            </header>
+
+            <section>
+                <h1>
+                    Judas by Lady gaga <!-- The title of the song -->
+                </h1>
+            </section>
+
+            <main>
+
+                <section>
+                    <h2> <!-- A short description -->
+                        Gojo vs Sakuna battle with Judas playing in the background. Who will win? (There is only one answer)
+                        
+                    </h2>
+                    <video controls> <!-- This is the video I used for my assignment, with the song in the background -->
+                        <source src="Judas - Gojo vs Sukuna.mp4" type="video/mp4">
+                    </video>
+                </section>
+
+                <section> <!-- A small title showing the lyrics are below -->
+                    <h2>
+                        Lyrics
+                    </h2>
+                </section>
+
+                <section> <!-- The lyrics of the song seperated into different lines and divs -->
+              <div>
+                <p>
+                   <h3>
+                    Oh, whoa-whoa, oh-oh
+                   </h3> 
+                   <h3>
+                    I'm in love with Judas, Judas
+                   </h3>
+                   <h3>
+                    Oh-oh-oh-oh-oh
+                   </h3>
+                   <h3>
+                    I'm in love with Judas, Judas
+                   </h3>
+                </p>
+              </div>
+              <div>
+                <p>
+                   <h3>
+                    Judas, Juda-ah-ah, Judas, Juda-ah-ah
+                   </h3>
+                   <h3>
+                    Judas, Juda-ah-ah, Judas, Gaga
+                   </h3>
+                   <h3>
+                    Judas, Juda-ah-ah, Judas, Juda-ah-ah
+                   </h3>
+                   <h3>
+                    Judas, Juda-ah-ah, Judas, Gaga
+                   </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                   <h3>
+                    When he calls to me, I am ready
+                   </h3>
+                   <h3>
+                    I'll wash his feet with my hair if he needs
+                   </h3>
+                   <h3>
+                    Forgive him when his tongue lies through his brain
+                   </h3>
+                   <h3>
+                    Even after three times, he betrays me
+                   </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                    Ah-ah, ah-ah-ah-ah, ah-ah, ah-ah-ah-ah
+                    </h3>
+                    <h3>
+                    I'll bring him down, bring him down, down
+                    </h3>
+                    <h3>
+                     Ah-ah, ah-ah-ah-ah, ah-ah, ah-ah-ah-ah 
+                    </h3>
+                    <h3>
+                     A king with no crown, king with no crown  
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                     I'm just a Holy Fool, oh, baby, it's so cruel
+                    </h3>
+                    <h3>
+                     But I'm still in love with Judas, baby
+                    </h3>
+                    <h3>
+                     I'm just a Holy Fool, oh, baby, it's so cruel
+                    </h3>
+                    <h3>
+                     But I'm still in love with Judas, baby  
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                    Oh, whoa-whoa, oh-oh
+                    </h3>
+                     <h3>
+                    I'm in love with Judas, Judas
+                    </h3>
+                    <h3>
+                    Oh-oh-oh-oh-oh
+                     </h3>
+                     <h3>
+                    I'm in love with Judas, Judas
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                     Judas, Juda-ah-ah, Judas, Juda-ah-ah
+                    </h3>
+                    <h3>
+                    Judas, Juda-ah-ah, Judas, Gaga
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        I couldn't love a man so purely
+                    </h3>
+                    <h3>
+                        Even prophets forgave his goofy way
+                    </h3>
+                    <h3>
+                        I've learned love is like a brick, you can
+                    </h3>
+                    <h3>
+                        Build a house or sink a dead body
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        Ah-ah, ah-ah-ah-ah, ah-ah, ah-ah-ah-ah
+                    </h3>
+                    <h3>
+                        I'll bring him down, bring him down, down
+                    </h3>
+                    <h3>
+                        Ah-ah, ah-ah-ah-ah, ah-ah, ah-ah-ah-ah
+                    </h3>
+                    <h3>
+                        A king with no crown, king with no crown
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        I'm just a Holy Fool, oh, baby, it's so cruel 
+                    </h3>
+                    <h3>
+                        But I'm still in love with Judas, baby
+                    </h3>
+                    <h3>
+                        I'm just a Holy Fool, oh, baby, it's so cruel
+                    </h3>
+                    <h3>
+                        But I'm still in love with Judas, baby
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        Oh, whoa-whoa, oh-oh
+                    </h3>
+                    <h3>
+                        I'm in love with Juda-as, Juda-as
+                    </h3>
+                    <h3>
+                        Oh-oh-oh-oh-oh
+                    </h3>
+                    <h3>
+                        I'm in love with Juda-as, Juda-as 
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        Ew
+                    </h3>
+                    <h3>
+                        In the most Biblical sense, I am beyond repentance
+                    </h3>
+                    <h3>
+                        Fame hooker, prostitute, wench vomits her mind
+                    </h3>
+                    <h3>
+                        But in the cultural sense, I just speak in future tense
+                    </h3>
+                    <h3>
+                        Judas, kiss me if offensed, or wear ear condom next time
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        I wanna love you
+                    </h3>
+                    <h3>
+                        But something's pulling me away from you
+                    </h3>
+                    <h3>
+                        Jesus is my virtue
+                    </h3>
+                    <h3>
+                        And Judas is the demon I cling to
+                    </h3>
+                    <h3>
+                        I cling to
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        Just a Holy Fool, oh, baby, it's so cruel 
+                    </h3>
+                    <h3>
+                        But I'm still in love with Judas, baby
+                    </h3>
+                    <h3>
+                        I'm just a Holy Fool, oh, baby, it's so cruel
+                    </h3>
+                    <h3>
+                        But I'm still in love with Judas, baby
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        Oh, whoa-whoa, oh-oh
+                    </h3>
+                    <h3>
+                        I'm in love with Judas, Judas 
+                    </h3>
+                    <h3>
+                        Oh-oh-oh-oh-oh
+                    </h3>
+                    <h3>
+                        I'm in love with Judas, Judas 
+                    </h3>
+                </p>
+                </div>
+                <div>
+                    <p>
+                    <h3>
+                        Judas, Juda-ah-ah, Judas, Juda-ah-ah
+                    </h3>
+                    <h3>
+                        Judas, Juda-ah-ah, Judas, Gaga
+                    </h3>
+                </p>
+                </div>
+                </section>
+            </main>
+        </body>
+        <footer> <!-- Here is my footer -->
+            Judas by Lady Gaga
+        </footer>
+        </html>
